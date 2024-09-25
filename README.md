@@ -5,7 +5,6 @@ This Laravel project implements an EMI (Equated Monthly Installment) processing 
 ## Features
 
 ### Loan Details Management:
-- A form to calculate Loan EMI.
 - Dynamic EMI generation based on loan details.
  
 
