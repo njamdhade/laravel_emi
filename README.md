@@ -41,3 +41,15 @@ This Laravel project implements an EMI (Equated Monthly Installment) processing 
     php artisan serve
     ```
 
+## SCREEN SHOTS
+### Login Page
+<img src='https://github.com/njamdhade/laravel_emi/blob/main/public/laravel_emi_screenshots/1_login_page.png' />
+### Loan Details Page
+<img src='https://github.com/njamdhade/laravel_emi/blob/main/public/laravel_emi_screenshots/2_loan_details_page.png' />
+### EMI details page Before Processing data
+<img src='https://github.com/njamdhade/laravel_emi/blob/main/public/laravel_emi_screenshots/3_emi_details_before_process_data.png' />
+### EMI details page After Processing data
+<img src='[https://github.com/njamdhade/laravel_emi/blob/main/public/laravel_emi_screenshots/3_emi_details_before_process_data.png](https://github.com/njamdhade/laravel_emi/blob/main/public/laravel_emi_screenshots/4_emi_details_after_process_data.png)' >
+
+
+
