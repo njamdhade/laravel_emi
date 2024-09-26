@@ -14,5 +14,5 @@ Route::controller(HomeController::class)->group(function () {
     Route::get('/', 'index')->name('home');
     Route::get('/emi_details', 'emi_details')->name('emi_details');
     Route::get('/process_data', 'process_data')->name('process_data');
-})->middleware('auth');
+});
 });
