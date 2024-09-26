@@ -47,13 +47,6 @@ This Laravel project implements an EMI (Equated Monthly Installment) processing 
     php artisan serve
     ```
 
-5. **S application**:
-
-    ```bash
-    php artisan serve
-    ```
-
-
 5. **npm dev environment**:
 
     ```bash
