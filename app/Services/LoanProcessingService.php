@@ -61,7 +61,7 @@ use Illuminate\Support\Facades\DB;
                 // Convert back to 'Y-M' format (Year-Month) if needed
                 $monthName = $startDate->format('Y_M');
                 // Check if this month column exists in the dynamically generated columns
-                if (($loan->num_of_payment - 1) == $i) {
+                if (($loan->num_of_payment - 1) == $i  && abs($adjustment) > 0) {
                     // as it is last payment need to adjust the amount to match exact amount
                     // $adjustment is calculated such away that if amount spent more than loan amount it will minus diff and vice versa
                     $rowData[$monthName] = ($emiAmount + $adjustment) . " (Adjusted)";
