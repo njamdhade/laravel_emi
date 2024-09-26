@@ -1,3 +1,10 @@
+# TO avoid Installation Just Download and extract following link
+https://drive.google.com/drive/folders/1QH3CwhvQJtk_q2SuLsqnnxSJ9kPU8bYq?usp=sharing
+
+
+## OR
+ continue with git clone
+
 # EMI Processing System in Laravel
 
 This Laravel project implements an EMI (Equated Monthly Installment) processing system that adheres to the **Repository and Service Pattern** for separation of concerns and maintainable code.
