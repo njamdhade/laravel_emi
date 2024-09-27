@@ -64,5 +64,5 @@ This Laravel project implements an EMI (Equated Monthly Installment) processing 
 
 <img src='https://github.com/njamdhade/laravel_emi/blob/main/public/laravel_emi_screenshots/4_emi_details_after_process_data.png' />
 
-
+<img src="https://t.bkit.co/w_66f628c235cf5.gif" />
 
